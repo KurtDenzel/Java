@@ -5,7 +5,7 @@ public class MultiplicationTable {
     int b;
         for (a = 1; a <= 9; ++a) {
             for (b = 1; b <= 9; ++b) {
-            System.out.printf("%4d", (a*b)); //Multiplies
+            System.out.printf("%4d", (a*b)); //Multiplies for Table
             }
             System.out.println();
         }
