@@ -27,7 +27,7 @@ public class UserGetInfo {
         System.out.println("Please enter your Tuition: ");
         tuition = Index.nextFloat(); //Var tuition as Interger Input
 
-        //Outputs of the Program
+        //Outputs of the Scanner Input
         System.out.println("\nYour name is: " + name);
         System.out.println("Student Number is: " + studentno);
         System.out.println("Your Course is: " + course);
