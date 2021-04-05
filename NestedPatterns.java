@@ -1,6 +1,7 @@
 package Looping;
 public class NestedPatterns {
     public static void main(String[] args) {     
+	    
         /*Pattern I*/
         System.out.println("Pattern I");
         for (int rows = 1; rows <= 6; rows++) {
