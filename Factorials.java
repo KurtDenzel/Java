@@ -6,7 +6,8 @@ public class Factorials {
         int Factorial = 1;  
         for(i=1;i<=10;i++)
         {    
-        Factorial = Factorial * i; //Operation
+        //Operations
+        Factorial = Factorial * i;
         System.out.println("Factorial of "+ i +" is: "+ Factorial); //Output
         }    
     }
